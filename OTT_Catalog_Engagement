@@ -5,6 +5,7 @@ An interactive Microsoft Excel analytics project analyzing **2,500 OTT titles** 
 ## Dashboard Preview
 ![OTT Catalog & Engagement Dashboard](dashboard_preview.png)
 
+
 ## Workbook Structure
 - **`ott_movies_clean_unique`**: Cleaned dataset of 2,500 unique titles converted into a structured Excel Table with engineered fields (`release_era`, `duration_hours`, `rating_tier`, `weighted_rating`, and `engagement_score`).
 - **`Pivot table`**: Summary KPIs and five Pivot Tables powering each chart on the dashboard.
